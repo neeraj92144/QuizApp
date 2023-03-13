@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566827220919",
+    "project_id": "findquiz-d782f",
+    "storage_bucket": "findquiz-d782f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566827220919:android:8c08f394ee87fb462ab232",
+        "android_client_info": {
+          "package_name": "com.app.findQuiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566827220919-f3kal04jj5f99fkkd81m59qggpjtbkt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASb4GyB-KZvEprrFN561LxLZq4u73O0YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566827220919-f3kal04jj5f99fkkd81m59qggpjtbkt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
